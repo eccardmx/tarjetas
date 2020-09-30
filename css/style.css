@@ -267,4 +267,111 @@ body
   background: #fff url(../img/tarjeta_3.png) no-repeat;
   margin: auto;
   margin-top: 50px;
+  display: grid;
+  grid-template-rows: 50% 50%;
+}
+
+.green-box-one
+{
+  width: 100%;
+  height: 140px;
+  display: grid;
+  grid-template-columns: 30% 70%;
+}
+
+.green-box-two
+{
+  width: 100%;
+  height: 140px;
+  display: grid;
+  grid-template-columns: 45% 55%;
+}
+
+.green-info-one
+{
+  width: 80%;
+  height: 95px;
+  margin-top: 37px;
+  margin-left: 25px;
+}
+
+.green-profile
+{
+  width: 100px;
+  height: 100px;
+  border: 1px solid #006838;
+  border-radius: 50%;
+}
+
+.green-profile-logo
+{
+  font-size: 18px;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-left: 23px;
+  margin-top: 41px;
+  color: #006838;
+}
+
+.green-name h1
+{
+  font-size: 28px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  color: #006838;
+  margin-left: 20px;
+  margin-top: 68px;
+}
+
+.green-data-one
+{
+  height: 138px;
+  display: grid;
+  grid-auto-rows: 50% 50%;
+}
+
+.info-data-globe
+{
+  width: 87%;
+  height: 35px;
+  margin-top: 42px;
+  margin-left: 25px;
+}
+
+.green-data-square
+{
+  width: 87%;
+  height: 35px;
+  margin-bottom: 12px;
+  margin-top: 35px;
+  margin-left: 25px;
+}
+
+.green-icon
+{
+  font-size: 24px;
+  color: #006838;
+  background: #fff;
+}
+
+.green-data-two
+{
+  display: grid;
+  grid-auto-rows: 33.33% 33.33% 33.33%;
+}
+
+.green-data-mobile
+{
+  width: 87%;
+  height: 35px;
+  margin-left: 23px;
+  margin-top: 8px;
+}
+
+.marker-icon
+{
+  margin-top: -3px;
+  margin-left: 28px;
 }
