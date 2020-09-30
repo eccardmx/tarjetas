@@ -1,0 +1,270 @@
+body
+{
+  background: #ffe6e6;
+}
+
+.inline
+{
+  display: inline-block;
+}
+
+/***********************
+  T A R J E T A  O N E
+**********************+**/
+/* .container-vertical
+{
+  width: 279px;
+  height: 500px;
+  background: #fff;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.box-1
+{
+  width: 100%;
+  height: 250px;
+}
+
+.box-master
+{
+  width: 57%;
+  height: 204px;
+  margin-left: 65px;
+  margin-top: 35px;
+  display: inline-block;
+}
+
+.logo
+{
+  width: 125px;
+  height: 125px;
+  border: 3px solid #6cb0b0;
+  border-radius: 50%;
+  margin-left: 10px;
+}
+
+.logo p
+{
+  font-size: 22px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+  text-transform: uppercase;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+.text-info h3
+{
+  font-size: 18px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+  margin-bottom: 0px;
+}
+
+.text-info p
+{
+  font-size: 16px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  margin-top: 0px;
+  margin-left: 12px;
+}
+
+.box-2
+{
+  width: 100%;
+  height: 250px;
+}
+
+.phone
+{
+  width: 100%;
+  height: 60px;
+  background: #6cb0b0 url(../img/tri.png) no-repeat;
+  background-position-x: 91px;
+}
+
+.box-2 a
+{
+  margin-left: 30px;
+  margin-top: 25px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.box-2 p
+{
+  font-size: 12px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  color: #fff;
+  margin-top: 2px;
+  margin-left: 15px;
+  display: inline-block !important;
+  vertical-align: top;
+}
+
+.phone-ico
+{
+  font-size: 20px;
+  color: #fff;
+  display: inline-block !important;
+  vertical-align: top;
+}
+
+.email
+{
+  width: 100%;
+  height: 60px;
+  background: #629f9d;
+}
+
+.web
+{
+  width: 100%;
+  height: 60px;
+  background: #6cb0b0;
+}
+
+.address
+{
+  width: 100%;
+  height: 70px;
+  background: #629f9d;
+} */
+
+/***********************
+  T A R J E T A  U N O
+**********************+**/
+.blueblue-container
+{
+  width: 500px;
+  height: 280px;
+  background: #fff url(../img/tarjeta_1.png) no-repeat;
+  margin: auto;
+  margin-top: 50px;
+  display: grid;
+  grid-template-rows: 50% 50%;
+}
+
+.blueblue-info-one
+{
+  width: 380px;
+  height: 115px;
+  margin-top: 25px;
+  margin-left: 23px;
+  display: grid;
+  grid-template-columns: 30% 70%;
+}
+
+.blueblue-profile
+{
+  width: 100px;
+  height: 100px;
+  border: 1px solid #262262;
+  border-radius: 50%;
+}
+
+.blueblue-profile-logo
+{
+  font-size: 18px;
+	font-family: 'Montserrat';
+	font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-left: 22px;
+  margin-top: 40px;
+}
+
+.blueblue-name h1
+{
+  font-size: 28px;
+	font-family: 'Montserrat';
+	font-weight: 500;
+  color: #262262;
+}
+
+.blueblue-info-data
+{
+  width: 77%;
+  height: 115px;
+  display: grid;
+  grid-template-columns: 50% 50%;
+  margin-left: 23px;
+}
+
+.info-data
+{
+  width: 100%;
+  height: 35px;
+  margin-bottom: 12px;
+}
+
+.blue-icon
+{
+  font-size: 24px;
+  color: #262262;
+}
+
+/***********************
+  T A R J E T A  D O S
+**********************+**/
+.bluepurple-container
+{
+  width: 500px;
+  height: 280px;
+  background: #fff url(../img/tarjeta_2.png) no-repeat;
+  margin: auto;
+  margin-top: 50px;
+  display: grid;
+  grid-template-rows: 50% 50%;
+}
+
+.bluepurple-box-one
+{
+  display: grid;
+  grid-template-columns: 60% 40%;
+}
+
+.bluepurple-name h1
+{
+  font-size: 25px;
+	font-family: 'Montserrat';
+	font-weight: 500;
+  color: #262262;
+  margin-left: 24px;
+  margin-top: 94px;
+}
+
+.bluepurple-profile
+{
+  width: 145px;
+  height: 72px;
+  border: 1px solid #262262;
+  margin-left: 10px;
+  margin-top: 43px;
+}
+
+.bluepurple-profile-logo
+{
+  font-size: 18px;
+	font-family: 'Montserrat';
+	font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-left: 40px;
+  margin-top: 27px;
+}
+
+/***********************
+  T A R J E T A  T R E S
+**********************+**/
+.green-container
+{
+  width: 500px;
+  height: 280px;
+  background: #fff url(../img/tarjeta_3.png) no-repeat;
+  margin: auto;
+  margin-top: 50px;
+}
