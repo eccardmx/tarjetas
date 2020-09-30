@@ -375,3 +375,52 @@ body
   margin-top: -3px;
   margin-left: 28px;
 }
+
+/****************************
+  T A R J E T A  C U A T R O
+**********************+******/
+.container-horizontal
+{
+  width: 500px;
+  height: 280px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.orange-container
+{
+  background: #fff url(../img/tarjeta_4.png) no-repeat;
+}
+
+.orange-code-center
+{
+
+}
+
+.orange-name h1
+{
+  font-size: 28px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  color: #7d0000;
+  margin-left: 20px;
+  margin-top: 35px;
+}
+
+.orange-data
+{
+
+}
+
+.orange-photo
+{
+
+}
+
+/****************************
+  T A R J E T A  C I N C O
+**********************+******/
+.colors-container
+{
+  
+}
