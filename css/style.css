@@ -422,5 +422,85 @@ body
 **********************+******/
 .colors-container
 {
-  
+  background: #fff url(../img/tarjeta_5.png) no-repeat;
+  margin-left: 350px;
+}
+
+.colors-center
+{
+  width: 85%;
+  height: 205px;
+  margin-top: 37px;
+  margin-left: 37px;
+  background: #abc178;
+}
+
+.grid
+{
+  display: grid;
+  grid-template-columns: 72% 28%;
+}
+
+.colors-state
+{
+  display: grid;
+  grid-template-rows: 35% 65%;
+}
+
+.colors-name h1
+{
+  font-size: 25px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  color: #fff;
+  margin-left: 15px;
+  margin-top: 35px;
+}
+
+.colors-info
+{
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.colors-data-square
+{
+  height: 35px;
+  margin-bottom: 12px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
+
+.colors-data-mobile
+{
+  margin-left: 5px;
+  margin-top: 10px;
+}
+
+.colors-icon
+{
+  font-size: 24px;
+  color: #fff;
+}
+
+.colors-profile
+{
+  width: 100px;
+  height: 100px;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  margin-top: 35px;
+  margin-left: 10px;
+}
+
+.colors-profile-logo
+{
+  font-size: 18px;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-left: 23px;
+  margin-top: 41px;
+  color: #fff;
 }
