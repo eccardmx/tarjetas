@@ -657,3 +657,28 @@ body
   margin-left: 22px;
   margin-top: 40px;
 }
+
+.black-box-two
+{
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.black-icon
+{
+  font-size: 24px;
+  color: #fff;
+}
+
+.black-data-square
+{
+  margin-bottom: 20px;
+  margin-left: 25px;
+  margin-top: 20px;
+}
+
+.black-box-small
+{
+  height: 85px;
+  margin-top: 44px;
+}
