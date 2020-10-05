@@ -682,3 +682,61 @@ body
   height: 85px;
   margin-top: 44px;
 }
+
+/****************************
+  T A R J E T A  O C H O
+**********************+******/
+.image-container
+{
+  background: url(../img/tarjeta_8.png) no-repeat;
+  display: grid;
+  grid-template-rows: 50% 50%;
+}
+
+.image-center-profile
+{
+  width: 90%;
+  height: auto;
+  margin: auto;
+  margin-top: 22px;
+  display: grid;
+  grid-template-columns: 30% 70%;
+}
+
+.image-profile
+{
+  width: 100px;
+  height: 100px;
+  background: #fff;
+  border-radius: 50%;
+}
+
+.image-profile-logo
+{
+  font-size: 18px;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin-left: 23px;
+  margin-top: 41px;
+  color: #9e6527;
+}
+
+.image-profile-name h1
+{
+  font-size: 28px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #fff;
+  margin-left: 20px;
+  margin-top: 37px;
+}
+
+.image-data-square
+{
+  margin-bottom: 20px;
+  margin-left: 35px;
+  margin-top: 9px
+}
