@@ -5,7 +5,7 @@ body
 
 .inline
 {
-  display: inline-block;
+  display: inline-block !important;
 }
 
 /***********************
@@ -814,3 +814,79 @@ body
   margin-left: 35px;
   margin-top: 0px;
 }
+
+/********************************************************+
+                  V E R T I C A L
+***********************************************************/
+
+/****************************
+  V E R T I C A L  U N O
+**********************+******/
+.container-vertical
+{
+  width: 279px;
+  height: 500px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.uno-container
+{
+  background: #fff url(../img/vertical_1.png) no-repeat;
+}
+
+.uno-center
+{
+  width: 80%;
+  height: 400px;
+  margin-left: 30px;
+  margin-top: 10px;
+  display: grid;
+  grid-template-rows: 40% 60%;
+}
+
+.column-uno
+{
+  width: 100%;
+  height: 192px;
+  display: grid;
+  grid-template-rows: 50% 50%;
+}
+
+.column-dos
+{
+  width: 100%;
+  height: 243px;
+}
+
+.column-uno-profile
+{
+  width: 95px;
+  height: 95px;
+  border: 1px solid #262262;
+  border-radius: 50%;
+  float: right;
+}
+
+.column-dos-profile h1
+{
+  font-size: 28px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  color: #262262;
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+
+.column-dos-profile h2
+{
+  font-size: 16px;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  color: #262262;
+  margin-top: 0px;
+}
+
+/****************************
+  V E R T I C A L  D O S
+**********************+******/
