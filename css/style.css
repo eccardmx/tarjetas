@@ -890,3 +890,44 @@ body
 /****************************
   V E R T I C A L  D O S
 **********************+******/
+.dos-container
+{
+  background: #fff url(../img/vertical_2.png) no-repeat;
+}
+
+.dos-center
+{
+  width: 85%;
+  height: 415px;
+  margin-left: 20px;
+  margin-top: 17px;
+  display: grid;
+  grid-template-rows: 70% 30%;
+}
+
+.dos-dev
+{
+  width: 100%;
+  height: 291px;
+  display: grid;
+  grid-template-rows: 25% 75%;
+}
+
+.dos-dev-profile
+{
+  width: 72%;
+  height: 75px;
+  float: right;
+  border-radius: 30px 30px 30px 30px;
+  border: 1px solid #262262;
+}
+
+.dos-dev-profile p
+{
+  font-size: 22px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  color: #262262;
+  text-align: center;
+  text-transform: uppercase;
+}
