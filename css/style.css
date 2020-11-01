@@ -1249,3 +1249,68 @@ body
   width: 100%;
   height: 232px;
 }
+
+/********************************
+  V E R T I C A L  S I E T E
+**********************+*********/
+.siete-container
+{
+  background: #fff url(../img/vertical_6.png) no-repeat;
+}
+
+.siete-center
+{
+  width: 85%;
+  height: 480px;
+  margin-left: 21px;
+  display: grid;
+  grid-template-rows: 50% 50%;
+  grid-gap: 9px;
+}
+
+.siete-name h1
+{
+  font-size: 24px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  color: #000;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  text-transform: uppercase;
+}
+
+.siete-name h2
+{
+  font-size: 16px;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  color: #000;
+  margin-top: 0px;
+}
+
+.siete-dev
+{
+  width: 100%;
+  height: 240px;
+  display: grid;
+  grid-template-rows: 64% 26%;
+}
+
+.siete-profile
+{
+  width: 90px;
+  height: 90px;
+  background: #000;
+  margin: auto;
+}
+
+.siete-profile p
+{
+  font-size: 18px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  color: #72bf44;
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 34px;
+}
