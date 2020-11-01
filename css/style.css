@@ -992,3 +992,97 @@ body
   width: 100%;
   height: 87px;
 }
+
+/********************************
+  V E R T I C A L  C U A T R O
+**********************+*********/
+.cuatro-container
+{
+  background: #58595b;
+}
+
+.cuatro-center
+{
+  width: 85%;
+  height: 480px;
+  margin-left: 21px;
+  display: grid;
+  grid-template-rows: 50% 50%;
+  grid-gap: 14px;
+}
+
+.cuatro-dev
+{
+  width: 100%;
+  height: 260px;
+  display: grid;
+  grid-template-rows: 67% 32%;
+}
+
+.cuatro-dev-data
+{
+  width: 100%;
+  height: 215px;
+}
+
+.cuatro-profile-center
+{
+  height: 160px;
+}
+
+.cuatro-profile
+{
+  width: 55%;
+  height: 170px;
+  background: #262262;
+  margin: auto;
+  border-radius: 0px 0px 50px 50px;
+}
+
+.cuatro-profile-circle
+{
+  width: 95px;
+  height: 95px;
+  border: 1px solid #fff;
+  border-radius: 50%;
+  margin-top: 25px;
+  margin-left: 17px;
+}
+
+.cuatro-profile-circle p
+{
+  font-size: 18px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 36px;
+}
+
+.cuatro-name h1
+{
+  font-size: 24px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  color: #fff;
+  margin-bottom: 0px;
+  margin-top: 10px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.cuatro-name h2
+{
+  font-size: 16px;
+  font-family: 'Montserrat';
+  font-weight: 400;
+  color: #fff;
+  text-align: center;
+  background: #262262;
+  margin-top: 5px;
+  margin-bottom: 0px;
+  border-radius: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
